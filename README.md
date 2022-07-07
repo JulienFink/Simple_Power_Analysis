@@ -7,6 +7,8 @@ Simple Power Analysis (SPA) with the ChipWhisperer Lite to bypass a password pro
 
 ![ChipWhisperer Lite](chipwhisperer.jpg)
 
+![Power consumption of the verification of a right vs a wrong character](right_vs_wrong_character.png)
+
 ------------------------------------
 ### Introduction :
 
