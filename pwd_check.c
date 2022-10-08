@@ -104,7 +104,7 @@ int main(void)
         for(uint8_t i = 0; i < sizeof(correct_passwd); i++){
             if (correct_passwd[i] != passwd[i]){
                 passbad = 1;
-                break;
+                break; //Remove this line and the power analysis vulnerabilty is gone ; same for timing attack btw
             }
         }
 
